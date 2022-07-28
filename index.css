@@ -1,0 +1,63 @@
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 20px 0;
+  background-color: #fff;
+  font-size: 14px;
+  font-weight: 900;
+  background-image: url("https://img.freepik.com/photos-gratuite/ailes-poulet-barbecue-dans-sauce-aigre-douce-pique-nique-menu-ete-nourriture-savoureuse-vue-dessus-mise-plat_2829-6471.jpg?w=2000");
+
+}
+h1{
+  padding: 20px;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+  font-family: Georgia;
+  text-transform: uppercase;
+  letter-spacing: 0.6em;
+}
+h2{
+  font-weight: 500;
+  font-size: 20px;
+  color: green;
+  text-align: center;
+}
+.intro{
+    font-family: Arial, Helvetica,sans-serif;     
+    font-size: medium;
+    text-align: center;
+    background-color: beige;
+    }
+.breadcrumb >li{
+      display: inline;
+    }
+.breadcrumb li+li::before{
+  color: grey;
+  content: ">";
+}
+p{
+  font-weight: 400;
+  font-size: medium;
+  text-align: center;
+  background-color: beige;
+
+}
+a{
+  color: white;
+  font-weight: 600;
+  font-size: 18px;
+  font-family: 'Arial', sans-serif;
+}
+a:hover{
+  color: red;
+  cuscor:pointer;
+
+}
+img{
+  padding: 50px auto;
+  height: 200px;
+  position: center;
+}
+
