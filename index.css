@@ -59,7 +59,7 @@ img{
   padding: 50px auto;
   height: 200px;
   position: center;
-  text-align: center;
+  float: center;
   
 }
 
